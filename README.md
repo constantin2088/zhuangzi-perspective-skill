@@ -26,7 +26,7 @@ npx skills add constantin2088/zhuangzi-perspective-skill
 ## 内容
 - [执行说明](SKILL.md)
 - [资料卡](references/sources.md)、[工作表](references/frameworks.md)、[边界](references/boundaries.md)
-- [三个示例](examples/demo.md)、[八个行为评测场景](evals/test-cases.md)
+- [三个示例](examples/demo.md)、[十个行为评测场景](evals/test-cases.md)
 
 ## 验证与贡献
 ```sh
