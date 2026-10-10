@@ -1,0 +1,17 @@
+{
+  "subject": "本人",
+  "consent": true,
+  "action": "完成社区任务",
+  "motives": [
+    "学习",
+    "帮助邻居"
+  ],
+  "effects": [
+    {
+      "affected": "邻居",
+      "observation": "反馈尚待取得",
+      "next_check": "征求意见"
+    }
+  ],
+  "commitment": "下周复核负担"
+}
